@@ -1,5 +1,7 @@
 const arr = {
-    name: 'arnaud',
+    name: 'charlotte',
     age: 38,
-    isAdmin: true
+    orders: [
+        'pain', 'lait'
+    ]
 }
